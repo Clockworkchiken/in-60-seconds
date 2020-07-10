@@ -11,16 +11,14 @@
 朝に少しでもゆっくりできる時間を作りたい
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
 
-@snap[west span-55]
 ### 概要
 
-- obnizの画像認識により起床を検知
+ obnizの画像認識により起床を検知
             ↓
 コーヒーメーカーに取り付けておいたサーボが起動
             ↓
-- コーヒーができるとプレンが音声と共に動きで教えてくれる
+ コーヒーができるとプレンが音声と共に動きで教えてくれる
 
 ---
 @title[Add A Little Imagination]
