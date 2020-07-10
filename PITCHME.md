@@ -1,11 +1,15 @@
-# 遠隔でコーヒーを入れてくれる
-# サービスロボット
+ 遠隔でコーヒーを入れてくれる
+ サービスロボット
 
 ---
 
-### Add Some Slide Candy
+### 概要
 
-![IMAGE](assets/img/presentation.png)
+- obnizの画像認識により起床を検知
+            ↓
+コーヒーメーカーに取り付けておいたサーボが起動
+            ↓
+- コーヒーができるとプレンが音声と共に動きで教えてくれる
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
