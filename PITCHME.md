@@ -22,15 +22,6 @@
             ↓
 - コーヒーができるとプレンが音声と共に動きで教えてくれる
 
-@snapend
-
-@snap[north-east span-45]
-@snapend
-
-@snap[south span-100]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
-
 ---
 @title[Add A Little Imagination]
 
