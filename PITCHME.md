@@ -1,8 +1,19 @@
  遠隔でコーヒーを入れてくれる
  サービスロボット
+ Team　Bravers
 
 ---
 
+### 目的
+
+朝に朝食や歯磨き、準備などで時間が足りない中で
+自動でコーヒーを入れてくれることにより
+朝に少しでもゆっくりできる時間を作りたい
+
+---?color=linear-gradient(180deg, white 75%, black 25%)
+@title[Customize Slide Layout]
+
+@snap[west span-55]
 ### 概要
 
 - obnizの画像認識により起床を検知
@@ -11,11 +22,6 @@
             ↓
 - コーヒーができるとプレンが音声と共に動きで教えてくれる
 
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
-
-@snap[west span-55]
-## Customize the Layout
 @snapend
 
 @snap[north-east span-45]
