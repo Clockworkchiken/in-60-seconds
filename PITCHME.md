@@ -25,7 +25,6 @@
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](assets/img/presentation.png)
 @snapend
 
 @snap[south span-100]
